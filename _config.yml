@@ -1,11 +1,11 @@
 # Site settings
 author: Wielfried Zouantcha
-title: 
+title: Kode Kafe 
 header-img: img/home-bg.png
 email: zouantchaw74@gmail.com
 copyright_name: Wielfried Zouantcha
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zouantchaw
